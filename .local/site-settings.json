@@ -1,0 +1,8 @@
+{
+  "theme": "system",
+  "accent": "Amber",
+  "motion": "grid-streaks",
+  "fontPair": "Geist + Geist Mono",
+  "density": "compact",
+  "heroLayout": "centered"
+}
